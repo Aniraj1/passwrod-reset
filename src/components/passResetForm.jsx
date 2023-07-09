@@ -29,7 +29,7 @@ const PasswordResetForm = ({ onSubmit }) => {
         e.preventDefault();
 
         if (password !== confirmPassword) {
-            setPasswordMatchError('Passwords does not match !!');
+            setPasswordMatchError('Passwords does not match !');
             return;
         }
 
