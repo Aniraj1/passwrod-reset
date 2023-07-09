@@ -1,0 +1,62 @@
+.password-reset-form {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #DDE6ED;
+    border-radius: 4px;
+  }
+  
+  .form-label {
+    color: #468B97;
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .form-input {
+    width: 94%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 15px;
+  }
+  
+  .form-button {
+    background-color: #47A992;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .form-button:hover {
+    background-color: #45a049;
+  }
+  
+
+  .heading{
+    text-align: center;
+  }
+
+  .pos{
+    z-index: 10;
+    position: relative;
+    margin-left: -10%;
+  }
+
+  .alertDiv{
+    background-color: #FF9B9B;
+  }
+
+  .error-message{
+    color: #B31312;
+    border: 1px solid;
+		padding: 5px 5px;
+    margin-top: 2%;
+  }
+
+  .altText{
+    margin-top: 10%;
+    text-align: center;
+  }
